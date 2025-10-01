@@ -1,0 +1,8 @@
+The sources of the extraction scripts provided in this directory can be used
+under the following condition:
+
+To the extent permitted by law, you can use, study, modify, and redistribute
+these extraction scripts, with any license provided by the spdx, and/or any
+license approuved by the fsf, as long as you also respect the distribution
+aggreements of the "CreArt" graphics.
+
