@@ -2,3 +2,4 @@ To the extent permitted by law, and to the extent permitted by the terms of use
 of "CreArt", you can use, study, modify, and redistribute the graphics provided
 by "CreArt", with any license provided by the spdx directory, or any license
 approuved by the fsf.
+
